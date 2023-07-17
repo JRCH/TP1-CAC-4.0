@@ -4,6 +4,6 @@ Programa Codo a Codo 4.0 - FullStack Java // Trabajo Práctico Integrador con Bo
 ### En Github Pages
 https://jrch.github.io/TP1-CAC-4.0/
 
-https://inscripcionesagencia.bue.edu.ar/codoacodo/img/graficos/logoCACsinbloque.png
 
+![logoCACsinbloque](https://github.com/JRCH/TP1-CAC-4.0/assets/133170216/d1b2675a-a637-4432-af49-5ced7d3ee81f)
 
